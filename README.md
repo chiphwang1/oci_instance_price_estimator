@@ -37,7 +37,7 @@ This cloud estimator will show cost estimates of instances deployed using Terraf
 
 
 ``` 
-oci_price_calculate.py <path to Terraform Stack>
+python3 oci_price_calculate.py <path to Terraform Stack>
     
 ```   
 
