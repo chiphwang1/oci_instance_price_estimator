@@ -132,7 +132,6 @@ def main():
 
     file1 = "./shape.csv"
     uri = "https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/"
-    # path = sys.argv[1]
     path =  cli()
 
     
