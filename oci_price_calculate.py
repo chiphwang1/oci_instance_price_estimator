@@ -1,11 +1,11 @@
 """
-This module will
+This module will take the terrafrom output in JSON and the mapped prcing list for OCI and calculate costs per instances and 
+add the cost for the entire stack.
 """
 
 import csv
 import requests
 import json
-import pprint
 import sys
 import argparse
 from urllib.request import urlopen
@@ -71,7 +71,6 @@ def create_list_for_instances(instance_list, updated_price):
         
     
 def calculate_cost(vm_process_list):
-    pp = pprint.PrettyPrinter(depth=6)
     total_cost_vm_list =[]
     print(f"{Fore.GREEN}Ouptut Cost...{Style.RESET_ALL} ")
 
