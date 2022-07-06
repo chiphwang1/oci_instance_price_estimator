@@ -19,12 +19,12 @@ This cloud estimator will show cost estimates of instances deployed using Terraf
 **1. Clone or download the contents of this repo** 
     
      ```
-     git clone https://github.com/chiphwang1/oci-terraform-osok.git
+     git clone https://github.com/chiphwang1/oci_instance_price_estimator.git
      
      ```
 **2. Change to the directory that holds the Terraform code** 
      ```
-     cd ./oci-terraform-osok
+     cd ./oci_instance_price_estimator
      ```
 **3. Install dependencies  for the Code**
 
@@ -40,7 +40,6 @@ This cloud estimator will show cost estimates of instances deployed using Terraf
 oci_price_calculate.py <path to Terraform Stack>
     
 ```   
-
 
  ##  Sample Output
 
