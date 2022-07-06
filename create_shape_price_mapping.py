@@ -1,5 +1,5 @@
 """
-This module will read a locl file "shape.csv" for mapping of OCI shape to OCI part numbers.
+This module will read a local file "shape.csv" for mapping of OCI shape to OCI part numbers.
 It will retrives OCI pricing list for part and map price to OCI shapes and output a file and dictionary with the mapping
 """
 
