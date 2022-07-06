@@ -1,0 +1,7 @@
+﻿shape,virtual machine part number,CPU part number,memory part number
+VM.Standard3.Flex,,B94176,B94177
+VM.Standard.E3.Flex,,B92306,B92307
+VM.Standard.E4.Flex,,B93113,B93114
+VM.Standard.A1.Flex,,B93297,B93298
+VM.DenseIO.E4.Flex,,B93121,B93122
+VM.Optimized3.Flex,,B93311,B93312
